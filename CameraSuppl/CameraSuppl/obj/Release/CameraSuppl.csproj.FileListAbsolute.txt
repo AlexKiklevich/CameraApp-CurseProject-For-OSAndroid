@@ -1,0 +1,16 @@
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\bin\Release\CameraSuppl.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\bin\Release\CameraSuppl.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\bin\Release\CameraSuppl.CameraSuppl.apk
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\bin\Release\CameraSuppl.CameraSuppl-Signed.apk
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\CameraSuppl.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\CameraSuppl.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\android\bin\CameraSuppl.CameraSuppl.apk
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\res\layout\picturebase.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\res\layout\game.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\res\layout\cameramain.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\res\values\strings.xml
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\res\drawable\icon.png
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\R.cs.flag
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\uploadflags.txt
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\obj\Release\CameraSuppl.dll.mdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CameraSuppl\CameraSuppl\bin\Release\CameraSuppl.dll.mdb
